@@ -28,6 +28,7 @@ The Business Data Clustering Dashboard is an advanced data analysis tool that le
 - Scikit-learn
 - Pandas
 - Matplotlib
+- Seaborn
 - Plotly
 
 ## 🚀 Installation
@@ -42,7 +43,7 @@ The Business Data Clustering Dashboard is an advanced data analysis tool that le
 git clone https://github.com/yourusername/business-clustering-dashboard.git
 
 # Navigate to project directory
-cd business-clustering-dashboard
+cd DataAnalytics
 
 # Create virtual environment
 python -m venv venv
@@ -83,6 +84,3 @@ The dashboard provides:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📜 License
-
-This project is licensed under the MIT License.
