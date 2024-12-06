@@ -38,21 +38,31 @@ The Business Data Clustering Dashboard is an advanced data analysis tool that le
 - pip
 
 ### Setup
-```bash
-# Clone the repository
+
+#### Clone the repository
+```
 git clone https://github.com/yourusername/business-clustering-dashboard.git
-
-# Navigate to project directory
+```
+#### Navigate to project directory
+```
 cd DataAnalytics
+```
 
-# Create virtual environment
+#### Create virtual environment
+```
 python -m venv venv
+```
+```
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+```
 
-# Install dependencies
+#### Install dependencies
+```
 pip install -r requirements.txt
+```
 
-# Run the Streamlit app
+#### Run the Streamlit app
+```
 streamlit run app.py
 ```
 
@@ -73,6 +83,8 @@ The dashboard provides:
 - Top differentiating features
 
 ## 📊 Sample Visualizations
+![Sample Dashboard Image](https://github.com/user-attachments/assets/eb0a33ae-061a-4267-98c2-5b4b039c6680)
+
 
 ### Cluster Distribution
 ![Cluster Distribution](cluster_dist.png)
